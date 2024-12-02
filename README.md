@@ -8,3 +8,8 @@ Yang, Y., Zheng, T., & Wu, J. (2024). Green taxation, regional green development
 
 ### Current Code for my research
 https://colab.research.google.com/drive/1ZSbFpccIzQAA9WCM4hP5FLqqZlQfj4uB?usp=sharing
+
+## Poster
+Below is the poster summarizing the findings of this project:
+
+![Poster: Economic Complexity and Green Taxation](poster.pdf-1(Powered%20by%20MaxAI).png)
